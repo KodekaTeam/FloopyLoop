@@ -18,6 +18,11 @@ FloopyLoop adalah aplikasi yang dirancang untuk membantu kreator konten ASMR dal
 5. Start Process dan video akan di looping secara otomatis.
 6. Tunggu hingga ada notifikasi bahwa proses looping telah selesai.
 
+## Perhatian
+
+- Jika ingin hasil audio lebih seamless, pastikan audio sudah loopable. Dan jika masih belum seamless, silahkan buat dulu di: [Audio Seamless](https://www.audjust.com/tools/ai-loop-audio)
+- Selain itu, pastikan juga generate video yang cukup seamless/loopable sebelum menggunakan software ini.
+
 ## Kontribusi
 
 Kontribusi sangat terbuka! Silakan buat diskusikan atau laporkan isu melalui halaman repository.
