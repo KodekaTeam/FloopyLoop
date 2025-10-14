@@ -1,5 +1,7 @@
 # FloopyLoop <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Bendera Indonesia" width="24" height="18" style="vertical-align:middle;">
 
+![alt text](image.png)
+
 FloopyLoop adalah aplikasi yang dirancang untuk membantu kreator konten ASMR dalam membuat video looping dengan mudah. Dengan FloopyLoop, Anda dapat mengatur segmen video yang ingin diulang, menggabungkan beberapa loop, dan menghasilkan output video yang mulus.
 
 ## Fitur Utama
