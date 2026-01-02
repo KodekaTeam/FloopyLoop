@@ -57,6 +57,11 @@ Silakan diskusikan ide atau laporkan isu melalui [halaman Issues](https://github
 
 ## Changelog
 
+### v1.2.0
+
+- Optimasi Looping Engine
+- Bug Fix
+
 ### v1.1.5
 
 - Perbaikan bug pada penggabungan segmen.
