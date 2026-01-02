@@ -1,6 +1,6 @@
 🌀 FloopyLoop – Advanced Seamless Video Looper
 
-Versi: 1.1.5
+Versi: 1.2.0
 Dikembangkan oleh: KodekaTeam
 Github: https://github.com/KodekaTeam
 
